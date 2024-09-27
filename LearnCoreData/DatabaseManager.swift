@@ -72,7 +72,8 @@ class DatabaseManager {
             try context?.save()
         }
         catch {
-            print("something wrong")
+            print("something wrong ")
+            print("new")
         }
     }
 }
