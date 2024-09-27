@@ -74,6 +74,8 @@ class DatabaseManager {
         catch {
             print("something wrong ")
             print("new")
+            
+            print("ne2w")
         }
     }
 }
